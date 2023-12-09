@@ -1,2 +1,2 @@
 # WAAC-estimation
-calculated WAAC using top-down and bottom up approach
+calculated WAAC(Weighted Average Cost of Capital) using top-down and bottom up approach
